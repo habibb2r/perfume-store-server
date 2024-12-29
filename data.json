@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Eau de Parfum",
+    "image": "https://res.cloudinary.com/dairs3nkn/image/upload/v1735461858/habibb2r/pmqcs2fblhocthkagzaj.webp",
+    "imgGallery" : [
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735461858/habibb2r/pmqcs2fblhocthkagzaj.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735461858/habibb2r/mcbgrxkt4jdwj6axcckr.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735461858/habibb2r/celitqpyxlsibsa5hx4z.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735461858/habibb2r/iduo3evsfx2et5fufque.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735461858/habibb2r/iyflsb0lcrg7ebd6sc1l.webp"
+    ],
+    "description": "Experience the allure of Carolina Herrera 212 VIP Rose Elixir Eau De Parfum. This captivating fragrance for women blends sparkling top notes with a floral heart, enveloped in a warm base. Perfect for evening wear, its sophisticated and sensual composition leaves a lasting impression. Housed in an elegant bottle, 212 VIP Rose Elixir embodies the glamour and style synonymous with the Carolina Herrera brand. Indulge in this exquisite scent for a touch of luxury.",
+    "price": {
+      "previous_price": 85.0,
+      "present_price": 75.0,
+      "discount": true
+    },
+    "availableSizes": [
+      {
+        "size": "30ml",
+        "price": 30.0
+      },
+      {
+        "size": "50ml",
+        "price": 50.0
+      },
+      {
+        "size": "100ml",
+        "price": 75.0
+      }
+    ],
+    "type": "Floral",
+    "popular": true,
+    "reviews": [
+      {
+        "reviewer": "Alice",
+        "rating": 5,
+        "comment": "Absolutely love this perfume! It's my new favorite."
+      },
+      {
+        "reviewer": "Bob",
+        "rating": 4,
+        "comment": "Great scent, but it doesn't last as long as I expected."
+      }
+    ]
+  },
+  {
+    "name": "Hugo Boss The Scent Absolute",
+    "image": "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466214/eas56lsw53uglovqzlda.webp",
+    "imgGallery" : [
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466214/dr5hbiwbtqhgadortpma.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466214/eas56lsw53uglovqzlda.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466214/bnveaskbr1qoxnwfyxmw.webp"
+    ],
+    "description": "Discover the allure of Hugo Boss The Scent Absolute for Her Eau De Parfum, a captivating women's fragrance that exudes sophistication and elegance. With its rich blend of honeyed peach and delicate osmanthus, it creates a mesmerising aura that lingers throughout the day. The warm, earthy base of roasted cocoa and creamy vanilla ensures a lasting impression. Perfect for any occasion, this exquisite perfume spray embodies timeless femininity and grace, making it an essential addition to your collection.",
+    "price": {
+      "previous_price": 70.0,
+      "present_price": 65.0,
+      "discount": true
+    },
+    "availableSizes": [
+      {
+        "size": "30ml",
+        "price": 25.0
+      },
+      {
+        "size": "50ml",
+        "price": 40.0
+      }
+    ],
+    "type": "Citrus",
+    "popular": false,
+    "reviews": [
+      {
+        "reviewer": "Carol",
+        "rating": 4,
+        "comment": "Perfect for summer! Very refreshing."
+      },
+      {
+        "reviewer": "Dave",
+        "rating": 3,
+        "comment": "Nice scent, but a bit too light for my taste."
+      }
+    ]
+  },
+  {
+    "name": "Giorgio Beverly Hills Yellow",
+    "image": "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466353/habibb2r/htkkkxadxuulr1blxfno.webp",
+    "imgGallery" : [
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466353/habibb2r/lbthcw9y3f60bnslld14.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466353/habibb2r/htkkkxadxuulr1blxfno.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466352/habibb2r/w67d3ocpbus3kdhkd8dw.webp"
+    ],
+    "description": "Giorgio Beverly Hills Yellow Eau De Toilette is a classic women's fragrance that exudes elegance and sophistication. With its vibrant blend of jasmine, gardenia, and orange blossom, this perfume offers a timeless scent that captures the essence of California glamour. Ideal for both day and evening wear, this iconic spray is perfect for those who appreciate a touch of luxury and a dash of sunshine in their daily routine.",
+    "price": {
+      "previous_price": 100.0,
+      "present_price": 90.0,
+      "discount": true
+    },
+    "availableSizes": [
+      {
+        "size": "50ml",
+        "price": 60.0
+      },
+      {
+        "size": "100ml",
+        "price": 90.0
+      }
+    ],
+    "type": "Oud",
+    "popular": true,
+    "reviews": [
+      {
+        "reviewer": "Eve",
+        "rating": 5,
+        "comment": "This perfume is amazing! The scent is very unique."
+      },
+      {
+        "reviewer": "Frank",
+        "rating": 4,
+        "comment": "Love the oud notes, but it's a bit too strong for daily wear."
+      }
+    ]
+  },
+  {
+    "name": "Karl Lagerfeld Rome Divino Amore",
+    "image": "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466449/habibb2r/txmurzgyepuwfeoawy7o.webp",
+    "imgGallery" : [
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466449/habibb2r/txmurzgyepuwfeoawy7o.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466449/habibb2r/kjdl9xo4ob8umk5iw5ct.webp"
+    ],
+    "description": "Experience the essence of elegance with Karl Lagerfeld Rome Eau De Parfum for women. This luxurious fragrance captures the spirit of Rome with its harmonious blend of floral and citrus notes. Perfect for any occasion, this perfume spray offers a lasting scent that embodies sophistication and style. Indulge in the allure of Karl Lagerfeld and make a statement with every spritz. Ideal for the modern woman who appreciates timeless beauty.",
+    "price": {
+      "previous_price": 100.0,
+      "present_price": 90.0,
+      "discount": true
+    },
+    "availableSizes": [
+      {
+        "size": "50ml",
+        "price": 60.0
+      },
+      {
+        "size": "100ml",
+        "price": 90.0
+      }
+    ],
+    "type": "Oud",
+    "popular": true,
+    "reviews": [
+      {
+        "reviewer": "Eve",
+        "rating": 5,
+        "comment": "This perfume is amazing! The scent is very unique."
+      },
+      {
+        "reviewer": "Frank",
+        "rating": 4,
+        "comment": "Love the oud notes, but it's a bit too strong for daily wear."
+      }
+    ]
+  },
+  {
+    "name": "Trussardi Pure Jasmine",
+    "image": "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466540/habibb2r/mseczpm6prdnt4ktv7sz.webp",
+    "imgGallery" : [
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466540/habibb2r/mseczpm6prdnt4ktv7sz.webp",
+        "https://res.cloudinary.com/dairs3nkn/image/upload/v1735466540/habibb2r/ehx1jhrfh4colw6vbpn2.webp"
+    ],
+    "description": "Trussardi Pure Jasmine is a floral fragrance for women. Celebrating modern, confident femininity. Top notes of luminous bergamot blend with fresh, salty pistachio and rich neroli with a heart of jasmine absolute and a base of vanilla and sandalwood.",
+    "price": {
+      "previous_price": 100.0,
+      "present_price": 90.0,
+      "discount": true
+    },
+    "availableSizes": [
+      {
+        "size": "50ml",
+        "price": 60.0
+      },
+      {
+        "size": "100ml",
+        "price": 90.0
+      }
+    ],
+    "type": "Oud",
+    "popular": true,
+    "reviews": [
+      {
+        "reviewer": "Eve",
+        "rating": 5,
+        "comment": "This perfume is amazing! The scent is very unique."
+      },
+      {
+        "reviewer": "Frank",
+        "rating": 4,
+        "comment": "Love the oud notes, but it's a bit too strong for daily wear."
+      }
+    ]
+  }
+]
